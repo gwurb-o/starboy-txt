@@ -1,10 +1,7 @@
 @starboy-txt's readme ...
 
-[ quinn / icarus ] <br>
+[ jax / icarus ] <br>
 [ they / them ]<br>
-[ fifteen / libra / aroace ]<br>
+[ sixteen / aroace ]<br>
 
-currently learning html and css.
-attempting to learn js.
-
-discord : icarus#6156
+idk how to code
